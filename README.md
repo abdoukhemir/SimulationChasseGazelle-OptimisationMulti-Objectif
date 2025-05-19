@@ -73,9 +73,6 @@ L'ensemble final des solutions non-dominées représente la frontière de Pareto
 
 ## **Auteur**
 
-\[Votre Nom / Pseudo GitHub\]  
-\[Lien vers votre profil GitHub (Optionnel)\]
+\KhemirAbderrahmen 
 
-## **Licence**
 
-\[Ajoutez ici les informations sur la licence de votre projet, par exemple : MIT, Apache 2.0, etc.\]"# SimulationChasseGazelle-OptimisationMulti-Objectif" 
